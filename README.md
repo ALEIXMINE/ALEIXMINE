@@ -1,6 +1,6 @@
 [![ALEIXMINE's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=ALEIXMINE.readme.visitor-badge)](https://github.com/ALEIXMINE/)
 
-### Hi there 👋<h2> I'm ALEIXMINE17</h2>
+<h1 align="center"> Hi there 👋 I'm ALEIXMINE17</h1>
 
 <hr>
 
