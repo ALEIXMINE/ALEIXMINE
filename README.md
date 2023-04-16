@@ -29,3 +29,15 @@ class Social(metaclass=Meta):
     youtube     : str = "ALEIXMINE17"
     twitter     : str = "aleixmine17"
 ```
+
+
+
+<h3 align="center">Stats</h3>
+
+[![ALEIXMINE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEIXMINE&show_icons=true&theme=merko)](https://github.com/ALEIXMINE/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEIXMINE&layout=compact&theme=tokyonight)](https://github.com/ALEIXMINE/)
+[![ALEIXMINE's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=ALEIXMINE.readme.visitor-badge)](https://github.com/ALEIXMINE/) 
+
+ 
+
+- Links to social networks and projects: https://happyrogelio7.github.io/ALEIXMINE/
