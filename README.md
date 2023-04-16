@@ -1,4 +1,8 @@
+[![ALEIXMINE's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=ALEIXMINE.readme.visitor-badge)](https://github.com/ALEIXMINE/)
+
 ### Hi there 👋<h2> I'm ALEIXMINE17</h2>
+
+<hr>
 
 ```python
 
@@ -30,14 +34,14 @@ class Social(metaclass=Meta):
     twitter     : str = "aleixmine17"
 ```
 
+<hr>
 
 
 <h3 align="center">Stats</h3>
 
 [![ALEIXMINE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEIXMINE&show_icons=true&theme=merko)](https://github.com/ALEIXMINE/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEIXMINE&layout=compact&theme=tokyonight)](https://github.com/ALEIXMINE/)
-[![ALEIXMINE's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=ALEIXMINE.readme.visitor-badge)](https://github.com/ALEIXMINE/) 
 
- 
+<hr>
 
 - Links to social networks and projects: https://happyrogelio7.github.io/ALEIXMINE/
