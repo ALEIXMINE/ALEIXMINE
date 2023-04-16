@@ -38,8 +38,10 @@ class Social(metaclass=Meta):
 
 
 <h3 align="center">Stats</h3>
-    [![ALEIXMINE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEIXMINE&show_icons=true&theme=merko)](https://github.com/ALEIXMINE/)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEIXMINE&layout=compact&theme=tokyonight)](https://github.com/ALEIXMINE/)
+
+[![ALEIXMINE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEIXMINE&show_icons=true&theme=merko)](https://github.com/ALEIXMINE/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEIXMINE&layout=compact&theme=tokyonight)](https://github.com/ALEIXMINE/)
+
 <hr>
 
 - Links to social networks and projects: https://aleixmine.github.io/
