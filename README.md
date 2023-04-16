@@ -44,4 +44,4 @@ class Social(metaclass=Meta):
 
 <hr>
 
-- Links to social networks and projects: https://happyrogelio7.github.io/ALEIXMINE/
+- Links to social networks and projects: https://aleixmine.github.io/
